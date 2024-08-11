@@ -4,7 +4,7 @@ Se tiene la intención de entrenar un algoritmo para detectar cuáles son los fa
 - Hipótesis y objetivo
 - Data Adquisition
 - Data Wrangling
-- Exploratory Data Analysis
+- Análisis Exploratorio de Datos
 - Análisis Univariado
 - Análisis Bivariado
 - Pasos previos al entrenamiento
@@ -14,6 +14,7 @@ Se tiene la intención de entrenar un algoritmo para detectar cuáles son los fa
   1. Árbol de Decision
   2. Regresion Logística
   3. Random Forest
+  4. XGBoosting
 - Validación Simple
 - Validación cruzada - StratifiedKFold
 - Optimización de hiperparámetros
